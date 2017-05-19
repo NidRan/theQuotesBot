@@ -1,7 +1,7 @@
 import requests
 import datetime
 
-token="387394756:AAH7vgZY-hhUuOSuwJnNtZXI1k-MmeclWUc"
+token='Your Token'
 class BotHandler:
 
     def __init__(self, token):
